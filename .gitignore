@@ -1,0 +1,13 @@
+# Dossiers de compilation
+build/
+build_test/
+
+# Journaux de compilation
+build_configure.log
+build_compile.log
+
+# Fichiers temporaires
+capture.png
+*.obj
+*.user
+.vs/
